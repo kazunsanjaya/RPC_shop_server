@@ -1,0 +1,5 @@
+Carrot 200 12
+Brinjols 120 25
+Spinach 50 4
+Cabbage 150 14.5
+Pumpkin 90 24
